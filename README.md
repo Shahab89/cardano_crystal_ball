@@ -40,7 +40,7 @@ To set up the project locally, follow these steps:
 1. Clone this repository: `git clone https://github.com/your-username/Cardano-Crystal-Ball.git`
 2. Navigate to the project directory: `cd Cardano-Crystal-Ball`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Go to our streamlit repo: https://github.com/lifelonglearner94/cardano-crystal-ball-website
+4. Go to our streamlit repo: https://github.com/Shahab89/cardano-crystal-ball-website
 5. Run the Streamlit app there: `streamlit run app.py`
 
 ## Usage
